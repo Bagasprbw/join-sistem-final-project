@@ -12,7 +12,7 @@
       <li><a href="#">Contact Us</a></li>
     </ul>
 
-    <button class="bg-blue-500 text-white font-bold px-8 py-3 rounded-[63px]">
+    <button class="bg-[#075EFD] text-white font-bold px-8 py-3 rounded-[63px]">
       Contact Us
     </button>
   </header>
