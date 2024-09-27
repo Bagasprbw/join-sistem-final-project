@@ -1,5 +1,6 @@
 <script setup>
 import Cooperation from './Cooperation.vue';
+import ProductList from './ProductList.vue';
 </script>
 <template>
     <section class="flex justify-between items-center px-32 py-16">
@@ -48,4 +49,5 @@ import Cooperation from './Cooperation.vue';
         
     </section>
     <Cooperation />
+    <ProductList/>
 </template>
