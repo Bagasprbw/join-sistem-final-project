@@ -1,3 +1,6 @@
+<script setup>
+import Cooperation from './Cooperation.vue';
+</script>
 <template>
     <section class="flex justify-between items-center px-32 py-16">
         <!-- <div class="grid grid-cols-2 space-x-32 items-center"> -->
@@ -44,4 +47,5 @@
         <!-- </div> -->
         
     </section>
+    <Cooperation />
 </template>
