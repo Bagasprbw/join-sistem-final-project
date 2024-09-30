@@ -1,5 +1,5 @@
 <template>
-    <section class="gap-16 px-32">
+    <section class="gap-16 px-32 mt-10">
         <h2 class="font-montserrat text-[32px] font-semibold leading-[64px] tracking-[-2px] text-center">
             Berbagai Mitra Untuk Mendukung Ekosistem Digital SISTEM
         </h2>
