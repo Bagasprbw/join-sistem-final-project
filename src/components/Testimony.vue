@@ -7,7 +7,7 @@
             <h2 class="font-sans text-[16px] leading-7 mt-3">
                 Cari berbagai macam event teknologi terbaik yang diadakan oleh komunitas dan di dukung oleh banyak perusahaan besar lainnya
             </h2>
-            <div class="flex items-center w-[1200px] h-[332px] p-0 mt-5">
+            <div class="flex items-center gap-4 w-[1200px] h-[332px] p-0 mt-5">
                 <div class="w-[377px] h-[320px] left-[11px] rounded-md shadow-xl p-8">
                     <div class="flex items-center gap-4 top-[40px] left-[39.5px]">
                         <img src="../assets/img/testy1.png" width="60px" height="60px" alt="">
