@@ -1,5 +1,6 @@
 <script setup>
 import ContentFrame1 from './components/ContentFrame1.vue';
+import FooterFrame from './components/FooterFrame.vue';
 import HelloWorld from './components/HelloWorld.vue';
 </script>
 
@@ -25,5 +26,8 @@ import HelloWorld from './components/HelloWorld.vue';
   <main>
     <ContentFrame1 />
   </main>
+  <footer>
+    <FooterFrame   />
+  </footer>
 </template>
 

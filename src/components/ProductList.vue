@@ -40,7 +40,7 @@
             </div>
             <!-- Card 2 -->
             <div class="w-[269px] px-0">
-                <img src="../assets/img/produk 1.png" alt="">
+                <img src="../assets/img/produk 2.png" alt="">
 
                 <div class="border border-[#FFE7E7] shadow-xl p-6 gap-6">
                     <div class="gap-4">
@@ -68,7 +68,7 @@
             </div>
             <!-- Card 3 -->
             <div class="w-[269px] px-0">
-                <img src="../assets/img/produk 1.png" alt="">
+                <img src="../assets/img/produk 3.png" alt="">
 
                 <div class="border border-[#FFE7E7] shadow-xl p-6 gap-6">
                     <div class="gap-4">
@@ -96,7 +96,7 @@
             </div>
             <!-- Card 4  -->
             <div class="w-[269px] px-0">
-                <img src="../assets/img/produk 1.png" alt="">
+                <img src="../assets/img/produk 4.png" alt="">
 
                 <div class="border border-[#FFE7E7] shadow-xl p-6 gap-6">
                     <div class="gap-4">
